@@ -196,9 +196,3 @@ This project demonstrates:
 ## 📝 License
 
 This project is open source and available under the MIT License.
-
----
-
-**Repository**: [zerbouhyoussef/blog_post](https://github.com/zerbouhyoussef/blog_post)  
-**Created**: September 14, 2024  
-**Last Updated**: January 4, 2025
